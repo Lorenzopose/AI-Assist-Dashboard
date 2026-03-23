@@ -26,7 +26,7 @@ It combines:
 - Key metrics (rows, columns, missing values)
 - Data preview
 - Summary statistics
-- Interactive visualizations
+- Quick visualizations
 
 ### 3. AI Insights
 - Automatically generates:
